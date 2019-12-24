@@ -1,0 +1,19 @@
+F:\LTDT\Demo\Demo\bin\Debug\Demo.exe.config
+F:\LTDT\Demo\Demo\bin\Debug\Demo.exe
+F:\LTDT\Demo\Demo\bin\Debug\Demo.pdb
+F:\LTDT\Demo\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+F:\LTDT\Demo\Demo\obj\Debug\Demo.Form1.resources
+F:\LTDT\Demo\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+F:\LTDT\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+F:\LTDT\Demo\Demo\obj\Debug\Demo.exe
+F:\LTDT\Demo\Demo\obj\Debug\Demo.pdb
+C:\Users\Nhu\Downloads\T4_03_4201104135_NguyenKhacHaSon_zip (1)\T4_03_4201104135_NguyenKhacHaSon_zip\1821COMP141203_Nhom03_42.01.104.135_NguyenKhacHaSon.zip\Source\Demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\Nhu\Downloads\T4_03_4201104135_NguyenKhacHaSon_zip (1)\T4_03_4201104135_NguyenKhacHaSon_zip\1821COMP141203_Nhom03_42.01.104.135_NguyenKhacHaSon.zip\Source\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\Nhu\Downloads\T4_03_4201104135_NguyenKhacHaSon_zip (1)\T4_03_4201104135_NguyenKhacHaSon_zip\1821COMP141203_Nhom03_42.01.104.135_NguyenKhacHaSon.zip\Source\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\Nhu\Downloads\T4_03_4201104135_NguyenKhacHaSon_zip (1)\T4_03_4201104135_NguyenKhacHaSon_zip\1821COMP141203_Nhom03_42.01.104.135_NguyenKhacHaSon.zip\Source\Demo\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+C:\Users\Nhu\Downloads\T4_03_4201104135_NguyenKhacHaSon_zip (1)\T4_03_4201104135_NguyenKhacHaSon_zip\1821COMP141203_Nhom03_42.01.104.135_NguyenKhacHaSon.zip\Source\Demo\Demo\obj\Debug\Demo.Form1.resources
+C:\Users\Nhu\Downloads\T4_03_4201104135_NguyenKhacHaSon_zip (1)\T4_03_4201104135_NguyenKhacHaSon_zip\1821COMP141203_Nhom03_42.01.104.135_NguyenKhacHaSon.zip\Source\Demo\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+C:\Users\Nhu\Downloads\T4_03_4201104135_NguyenKhacHaSon_zip (1)\T4_03_4201104135_NguyenKhacHaSon_zip\1821COMP141203_Nhom03_42.01.104.135_NguyenKhacHaSon.zip\Source\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Nhu\Downloads\T4_03_4201104135_NguyenKhacHaSon_zip (1)\T4_03_4201104135_NguyenKhacHaSon_zip\1821COMP141203_Nhom03_42.01.104.135_NguyenKhacHaSon.zip\Source\Demo\Demo\obj\Debug\Demo.exe
+C:\Users\Nhu\Downloads\T4_03_4201104135_NguyenKhacHaSon_zip (1)\T4_03_4201104135_NguyenKhacHaSon_zip\1821COMP141203_Nhom03_42.01.104.135_NguyenKhacHaSon.zip\Source\Demo\Demo\obj\Debug\Demo.pdb
+C:\Users\Nhu\Downloads\T4_03_4201104135_NguyenKhacHaSon_zip (1)\T4_03_4201104135_NguyenKhacHaSon_zip\1821COMP141203_Nhom03_42.01.104.135_NguyenKhacHaSon.zip\Source\Demo\Demo\obj\Debug\Demo.Properties.Resources.resources
